@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /dev_backup_2026/
+Disallow: /admin_private/
+
+# Note: Système de secours opérationnel sur le répertoire d'urgence.
